@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<initialization>  
+<sentinel>
+<startYear>2023</startYear>
+<startMonth>10</startMonth>
+<startDate>24</startDate>
+
+<!-- Hours will always add 8 because of TimeZone -->
+<startHour>5</startHour>
+<startMinute>35</startMinute>
+<startSeconds>30</startSeconds>
+</sentinel>
+</initialization>
